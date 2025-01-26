@@ -27,7 +27,7 @@ This repository contains Python scripts for visualizing stock price data over va
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nekhilesh-Agarwal/Stock-Graph.git
-   cd stock-price-visualization
+   cd Stock-Graph
    ```
 
 2. Install the required libraries:
